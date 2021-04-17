@@ -1,0 +1,17 @@
+{
+    "name": "deltabot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "SnYp5R",
+    "license": "ISC",
+    "depedencies": {
+        "discord.js": "^12.3.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "lowdb": "^1.0.0"
+    }
+}
